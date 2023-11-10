@@ -5,7 +5,7 @@ Flossy Armstrong is the mascot of Jan Schenk Open Source Consulting. Flossy's pr
 
 Find all artwork in [the /design directory of this repo](/designs/).
 
-![](https://github.com/postman-open-technologies/ventura-armstrong/blob/main/designs/Ventura%20Armstrong%20bg.png)
+![](https://github.com/jansche/flossy-armstrong/blob/main/design/flossy_armstrong.png)
 
 ## Contribution
 You are free to create custom versions of Flossy, as long as they don't violate our [Code of Conduct](CODE_OF_CONDUCT.md). You can submit them as PRs to this repo, and if the maintainers find them fit the general Flossy theme, we will merge them into the collection.
