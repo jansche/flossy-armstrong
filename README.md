@@ -1,4 +1,4 @@
-# Flossy Armstrong, Octopus Mascot of Jan Schenk Open Source Consulting
+# Flossy Armstrong, Octopus and Mascot of Jan Schenk Open Source Consulting
 You're at the Creative Commons home of Flossy Armstrong
 
 Flossy Armstrong is the mascot of Jan Schenk Open Source Consulting. Flossy's pronouns are they/them. They are a pentapus (an octopus with 5, sometimes 4 or less instead of 8 arms). They didn't decide for the astronomy career of their sibling Ventura, but they are as smart nevertheless. Flossy owns the superpower of being supportive. They are non-binary, but have love for all.
